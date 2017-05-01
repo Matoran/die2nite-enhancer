@@ -1,5 +1,7 @@
 ## Die2Nite Enhancer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aymericbeaumet/die2nite_enhancer.svg?token=fb9cb34ea64878b7ada33d7a700ac63a68c68aa3f410294250bfdb164bb68c48&ts=1493661744086)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/aymericbeaumet/die2nite_enhancer.png?branch=master)](https://travis-ci.org/aymericbeaumet/die2nite_enhancer) [![Coverage Status](https://coveralls.io/repos/aymericbeaumet/die2nite_enhancer/badge.png?branch=master)](https://coveralls.io/r/aymericbeaumet/die2nite_enhancer?branch=master) [![Dependency Status](https://david-dm.org/aymericbeaumet/die2nite_enhancer.png?theme=shields.io)](https://david-dm.org/aymericbeaumet/die2nite_enhancer) [![devDependency Status](https://david-dm.org/aymericbeaumet/die2nite_enhancer/dev-status.png?theme=shields.io)](https://david-dm.org/aymericbeaumet/die2nite_enhancer#info=devDependencies)
 
 Die2Nite Enhancer is an extension allowing you to improve your game experience on the browser game [Die2Nite](http://www.die2nite.com/).
